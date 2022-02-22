@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    bNode.cpp
- ** Project: CMSC 341 Project 2, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    10/19/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the bNode program for project 2.
  ** This program is the node class for the splay tree. This
  ** includes the functions that: finds frequency of word in
