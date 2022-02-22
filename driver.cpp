@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    mytest.cpp
- ** Project: CMSC 341 Project 2, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    10/19/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the test program for project 2.
  ** This program is contains every test for each public fn.
  ** of the tree interfaces. It also tests edge cases such as:
