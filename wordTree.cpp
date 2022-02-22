@@ -1,11 +1,4 @@
 /*****************************************
- ** File:    wordTree.cpp
- ** Project: CMSC 341 Project 2, Fall 2020
- ** Author:  Kyle Rivera
- ** Date:    10/19/2020
- ** Section: 06
- ** E-mail:  drivera1@umbc.edu
- **
  ** This file contains the wordTree program for project 2.
  ** This program is the interface for the AVL tree. This
  ** includes the functions that: inserts a node in the tree,
